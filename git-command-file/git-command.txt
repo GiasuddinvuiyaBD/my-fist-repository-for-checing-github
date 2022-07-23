@@ -1,0 +1,31 @@
+// class 1
+// date : 23/7/2022
+// saterday
+================= Git & github ==================
+VCS = virsion control system
+
+// starting point 
+1. git config --global user.name 'Najim vuiya'
+2. git config --global user.email 'najim@mgial.com'
+3. git init ......for initiazing
+4. git config --list
+
+
+5. git status 
+6. git add // file name
+7. git add . // all file adding to the staging area
+8. git commit -m 'message' // commit or save a virsion
+9. git commit -am // derect commit 
+10. git reset // reset staging area
+11. git log // showing virsion
+12. git log --oneline
+13. git show (virsion number) // for showing code
+14. git checkout (virsion name) // for going one virsion to another virsion
+15. git switch 
+16. git reset --hard // reset form both side
+20. wq
+
+=-------------------------------------------------------------=
+=-------------------Class -2 start here ----------------------=
+=-------------------------------------------------------------=
+
