@@ -13,3 +13,8 @@ const heading2 = document.querySelector('.container h2');
 
 // class-2 virsion is 0.5
 // class-2 virsion is 0.6
+
+
+// class-2 virsion is 0.7
+// class-2 virsion is 0.8
+
