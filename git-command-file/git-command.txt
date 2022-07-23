@@ -30,5 +30,3 @@ VCS = virsion control system
 =-------------------------------------------------------------=
 
 virsion number 0.6
-virsion number 0.7
-virsion number 0.8
