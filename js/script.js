@@ -10,4 +10,6 @@ const heading2 = document.querySelector('.container h2');
 
 // updated virsion number 0.3
 
+// updated virsion number 0.4
+
 
