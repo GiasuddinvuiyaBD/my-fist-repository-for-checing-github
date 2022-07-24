@@ -28,23 +28,21 @@ VCS = virsion control system
 =-------------------------------------------------------------=
 =-------------------Class -2 start here ----------------------=
 =-------------------------------------------------------------=
+21. git diff 
+22. git diff --staged
+23. git revert (head or virsinon number) then I press then esc then :wq
+24. git commit --amend (for updating) I then esc :wq
+25. git checkout master (for virsion chance)
+26. git switch -c branch name
+27. git brance branch name
+28. git branch (showing all branch)
+29. git log newwb --not main
+30. git log newb --not main --oneline
+
+=-------------------------------------------------------------=
+=-------------------Class -2.1 start here ----------------------=
+=-------------------------------------------------------------=
 
 
 
-//virsion number 6.1
-//  Time is very importent 6.2
 
-//  Time is very importent 6.3
-//  Time is very importent 6.3
-//  Time is very importent 6.3
-//  Time is very importent 6.3
-
-
-
-// Bangladesh will be my own country 
-// Bangladesh will be my own country 
-// Bangladesh will be my own country 
-
-
-
-///*--------------*/
