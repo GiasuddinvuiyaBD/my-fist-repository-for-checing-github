@@ -200,3 +200,4 @@ function resiveInputValueForMainScore()
 // --------------------------------
 
 
+// Life is so easy do you believe it???
