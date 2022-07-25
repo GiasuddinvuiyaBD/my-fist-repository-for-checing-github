@@ -204,6 +204,7 @@ function resiveInputValueForMainScore()
 // Git updated virsion number 0.3
 // Git updated virsion number 0.4
 //  Git updated virsion number 0.5 
+//  Git updated virsion number 0.6
 
 
 
